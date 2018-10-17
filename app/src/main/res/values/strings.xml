@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="Button_send">Send</string>
+    <string name="log_in">Log In</string>
+    <string name="search_inventory">Search Inventory</string>
+    <string name="request_help">Request Help</string>
+    <string name="barcode_scanner">barcode scanner</string>
+    <string name="products">Products</string>
+    <string name="retire_product">Retire Product</string>
+    <string name="add_new">Add New</string>
+    <string name="modify_existing">Modify Existing</string>
+</resources>
