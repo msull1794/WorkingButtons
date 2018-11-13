@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="com.example.molly.myfirstapp">
 
     <application
@@ -8,8 +9,10 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity
+            android:name=".MainActivity"
             android:theme="@style/Medpick_app_theme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -17,6 +20,16 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".AddNewProd"
+            android:label="@string/title_activity_add_new_prod"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Support_2"
+            android:label="Support_2"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Repair_Request_page" />
+        <activity android:name=".Retire_Product_Page"></activity>
     </application>
 
 </manifest>

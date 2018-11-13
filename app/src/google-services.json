@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "823338118182",
+    "firebase_url": "https://harptest-e32a4.firebaseio.com",
+    "project_id": "harptest-e32a4",
+    "storage_bucket": "harptest-e32a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823338118182:android:5c0e6a7612b07f4d",
+        "android_client_info": {
+          "package_name": "Harp.Test_"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823338118182-o5a0980joh3glou45i53su3o5bngnrj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiIUK9O5us_Z1_ztyO7PENIgNVNjKeJ3M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823338118182:android:87fcb66cc6ca320a",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823338118182-o5a0980joh3glou45i53su3o5bngnrj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiIUK9O5us_Z1_ztyO7PENIgNVNjKeJ3M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823338118182:android:230926bc2fd7408f",
+        "android_client_info": {
+          "package_name": "com.med.harp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823338118182-i99girlkv0dhnkk0tddfpdilfhtpp15u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.med.harp",
+            "certificate_hash": "f72c99bee1f0b2a12e73510ca604f11e6768dcea"
+          }
+        },
+        {
+          "client_id": "823338118182-o5a0980joh3glou45i53su3o5bngnrj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiIUK9O5us_Z1_ztyO7PENIgNVNjKeJ3M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823338118182-o5a0980joh3glou45i53su3o5bngnrj8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

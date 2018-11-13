@@ -10,4 +10,5 @@
     <string name="retire_product">Retire Product</string>
     <string name="add_new">Add New</string>
     <string name="modify_existing">Modify Existing</string>
+    <string name="title_activity_add_new_prod">AddNewProd</string>
 </resources>
