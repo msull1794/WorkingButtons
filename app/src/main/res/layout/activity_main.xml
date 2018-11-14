@@ -109,27 +109,7 @@
         tools:text="SUPPORT"
         tools:textSize="24sp" />
 
-    <Button
-        android:id="@+id/Warrenty Info"
-        android:layout_width="290dp"
-        android:layout_height="56dp"
-        android:layout_marginStart="8dp"
-        android:layout_marginLeft="8dp"
-        android:layout_marginTop="400dp"
-        android:layout_marginEnd="8dp"
-        android:layout_marginRight="8dp"
-        android:layout_marginBottom="55dp"
-        android:background="#314b7b"
-        android:text="Warrenty Info"
-        android:textColor="@color/common_google_signin_btn_text_dark_default"
-        android:textStyle="bold"
-        android:typeface="sans"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Warrenty Info"
-        tools:textSize="24sp" />
+
 
     <TextView
         android:id="@+id/Products"
