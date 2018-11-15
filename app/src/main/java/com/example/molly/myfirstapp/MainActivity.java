@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 break;
             case R.id.Repair_request:
                 Toast.makeText(this, "Moving to Repair Request page", Toast.LENGTH_SHORT).show();
-                Intent intent1 = new Intent(MainActivity.this,Repair_Request_page.class);
+                Intent intent1 = new Intent(MainActivity.this, Repair_Request_page.class);
                 startActivity(intent1);
                 break;
             case R.id.Retire_request:
